@@ -1,2 +1,3 @@
 favorit programing language: python
 reason for learning Git: for teamwork and developing
+favorite editor: VS Code
