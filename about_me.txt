@@ -1,3 +1,5 @@
 favorit programing language: python
 reason for learning Git: for teamwork and developing
 favorite editor: VS Code
+Among my non-computer skills, I can mention playing an instrument
+and playing taekwondo.
